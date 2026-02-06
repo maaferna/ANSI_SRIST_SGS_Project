@@ -1,0 +1,18 @@
+# Django generated files
+**/staticfiles/
+**/static/
+**/media/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Env
+.env
+.venv/
+
+# Frontend / build
+node_modules/
+dist/
+build/
